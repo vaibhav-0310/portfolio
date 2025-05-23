@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import travel from "../../Assets/Projects/travel.pngfit";
+import travel from "../../Assets/Projects/travel.png";
 import apk from "../../Assets/Projects/apk.jpeg";
 import diabetes from "../../Assets/Projects/diabetes.jpeg";
 
