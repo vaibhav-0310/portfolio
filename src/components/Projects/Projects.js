@@ -22,9 +22,9 @@ function Projects() {
             <ProjectCard
               imgPath={apk}
               isBlog={false}
-              title="Malicious apk"
-              description="The project, consist of malicious payload, embedded in an apk and send to the user, which listens to the daily life activity of the user like text, camera, microphone and contacts."
-              ghLink="https://github.com/vaibhav-0310/project-exhibition-2"
+              title="Kiara: E-commerce Platform"
+              description="Kiara is a sleek and secure e-commerce platform built with Node.js, EJS, and MongoDB, offering seamless product browsing, user authentication, and a smooth checkout experience."
+              ghLink="https://github.com/vaibhav-0310/Kaira-e-commerce"
             />
           </Col>
 
